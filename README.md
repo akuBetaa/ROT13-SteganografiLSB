@@ -24,3 +24,27 @@ Repositori ini dibuat untuk mengerjakan **Tugas UAS Rekayasa Perangkat Lunak** d
 
 - **React.js** (Frontend Library)
 - **JavaScript** (Bahasa Pemrograman Utama)
+
+---
+
+## Cara Menjalankan Proyek
+1. **Clone repositori ini:**
+   ```bash
+   git clone https://github.com/akuBetaa/ROT13-SteganografiLSB.git
+   ```
+2. **Masuk ke dalam folder proyek:**
+   ```bash
+   cd ROT13-SteganografiLSB
+   ```
+3. **Install dependensi:**
+   ```bash
+   npm install
+   ```
+4. **Jalankan proyek:**
+   ```bash
+   npm run dev
+   ```
+5. **Akses aplikasi di browser:**
+   ```
+   http://localhost:3000
+   ```
