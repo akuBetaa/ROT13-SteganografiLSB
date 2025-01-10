@@ -1,6 +1,7 @@
+import React from 'react';
+
 import rotUtils from '@/utils/rot.utils';
 
-import React from 'react';
 
 export default function ROT13() {
   const [input, setInput] = React.useState('');
