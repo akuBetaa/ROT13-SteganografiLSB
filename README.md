@@ -5,8 +5,8 @@
 | Nama                   | NIM         | GitHub                                          |
 | ---------------------- | ----------- | ----------------------------------------------- |
 | Beta Nurul Awwalin     | 21104410091 | [akuBetaa](https://github.com/akuBetaa)         |
-| Kharisma Dinda Amareta | 211044100xx | [Kharismada18](https://github.com/Kharismada18) |
-| M. Arbi Yoganata | 211044100xx | [Yoganataa](https://github.com/Yoganataa) |
+| Kharisma Dinda Amareta | 21104410055 | [Kharismada18](https://github.com/Kharismada18) |
+| M. Arbi Yoganata | 21104410073 | [Yoganataa](https://github.com/Yoganataa) |
 | Rizka Magvira | 21104410089 | [rizkamagvira](https://github.com/rizkamagvira) |
 
 ---
