@@ -2,16 +2,17 @@
 
 ## Anggota Kelompok
 
-| Nama | NIM | GitHub |
-|------|-----|--------|
-| Beta Nurul Awwalin | 21104410091 | [akuBetaa](https://github.com/akuBetaa) |
+| Nama                   | NIM         | GitHub                                          |
+| ---------------------- | ----------- | ----------------------------------------------- |
+| Beta Nurul Awwalin     | 21104410091 | [akuBetaa](https://github.com/akuBetaa)         |
 | Kharisma Dinda Amareta | 211044100xx | [Kharismada18](https://github.com/Kharismada18) |
-| M. Arbi Yoganata | 211044100xx | [Yoganataa](https://github.com/Yoganataa) |
-| Rizka Magvira | 211044100xx | [rizkamagvira](https://github.com/rizkamagvira) |
+| M. Arbi Yoganata       | 211044100xx | [Yoganataa](https://github.com/Yoganataa)       |
+| Rizka Magvira          | 211044100xx | [rizkamagvira](https://github.com/rizkamagvira) |
 
 ---
 
 ## Deskripsi Proyek
+
 Repositori ini dibuat untuk mengerjakan **Tugas UAS Rekayasa Perangkat Lunak** dengan topik:
 
 1. **ROT13** - Implementasi algoritma enkripsi ROT13.
@@ -20,6 +21,6 @@ Repositori ini dibuat untuk mengerjakan **Tugas UAS Rekayasa Perangkat Lunak** d
 ---
 
 ## Teknologi yang Digunakan
+
 - **React.js** (Frontend Library)
 - **JavaScript** (Bahasa Pemrograman Utama)
-
