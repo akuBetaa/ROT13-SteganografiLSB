@@ -1,6 +1,6 @@
 import React from 'react';
 
-export default function StenografiLBS() {
+export default function SteganografiLBS() {
   return (
     <div>
       StenografiLBS
