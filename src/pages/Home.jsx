@@ -1,25 +1,24 @@
 import React from 'react';
 
-import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs';
-
 import ROT13 from './ROT13';
 import SteganografiLBS from './SteganographyLBS';
+import About from './About';
 
 export default function Home() {
   return (
-    <div className="">
-      <Tabs defaultValue="rot13" className="w-full">
-        <TabsList>
-          <TabsTrigger value="rot13">ROT 13</TabsTrigger>
-          <TabsTrigger value="steganography">Steganografi LBS</TabsTrigger>
-        </TabsList>
-        <TabsContent value="rot13">
-          <ROT13 />
-        </TabsContent>
-        <TabsContent value="steganography">
-          <SteganografiLBS />
-        </TabsContent>
-      </Tabs>
+    <div>
+      <section id="rot13" className="py-6">
+        <h2 className="text-2xl font-bold mb-4">ROT 13 <i> (rotate by 13)</i></h2>
+        <ROT13 />
+      </section>
+      <section id="steganography" className="py-6">
+        <h2 className="text-2xl font-bold mb-4">Steganografi LSB</h2>
+        <SteganografiLBS />
+      </section>
+      <section id="about" className="py-6">
+        <h2 className="text-2xl font-bold mb-4">About</h2>
+        <About />
+      </section>
     </div>
   );
 }
